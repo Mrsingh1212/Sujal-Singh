@@ -34,8 +34,7 @@
 ---
 
 ### 🚀 Featured Projects:
-- 🔗 [**Portfolio Website**](https://sujalsingh.github.io/portfolio-website/
-) — Personal portfolio built using HTML, CSS, JS, React
+- 🔗 [**Portfolio Website**](https://mrsingh1212.github.io/Portfolio-website/) — Personal portfolio built using HTML, CSS, JS, React
 - 🔗 [**To-Do App**](#) — A CRUD app with Node.js and MongoDB
 - 🔗 [**Blog CMS**](#) — Full-stack blogging platform
 > *(Add actual links later when ready)*
